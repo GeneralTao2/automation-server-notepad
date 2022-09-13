@@ -11,4 +11,3 @@ docker run \
   --publish 2376:2376 \
   docker:dind \
   --storage-driver overlay2
-mao@general:~/jenkins$
