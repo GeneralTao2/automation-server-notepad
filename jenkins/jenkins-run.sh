@@ -13,4 +13,4 @@ docker run \
   --volume /var/run/docker.sock:/var/run/docker.sock \
   --volume jenkins-docker-certs:/certs/client \
   --env JAVA_OPTS=-Dorg.jenkinsci.plugins.ghprb.GhprbRepository.webhook.insecure=true \
-  myjenkins-blueocean:2.346.2-1
+  myjenkins-blueocean
