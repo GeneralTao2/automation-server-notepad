@@ -1,0 +1,16 @@
+Using default tag: latest
+latest: Pulling from generaltao725/simple-java-maven-app
+001c52e26ad5: Already exists
+d9d4b9b6e964: Already exists
+2068746827ec: Already exists
+9daef329d350: Already exists
+d85151f15b66: Already exists
+66223a710990: Already exists
+db38d58ec8ab: Already exists
+5a7e60b5034b: Pulling fs layer
+5a7e60b5034b: Verifying Checksum
+5a7e60b5034b: Download complete
+5a7e60b5034b: Pull complete
+Digest: sha256:481b78a8db922c793f20681f817a0ad471272a0f0d39cd4c64bd953ab074c21b
+Status: Downloaded newer image for generaltao725/simple-java-maven-app:latest
+docker.io/generaltao725/simple-java-maven-app:latest
