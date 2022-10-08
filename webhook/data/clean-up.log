@@ -1,0 +1,46 @@
+Sat 08 Oct 2022 10:21:22 PM MSK
+81e79a529bb2
+Deleted: sha256:81e79a529bb2c1c70545e1b4fc78a8fc91178bcacce132bb2001a6d48c66d35e
+Deleted: sha256:df4eaf3dc3ac2663012cabe62ef28ae5716e83a2dbc750a7ad0db9cae704792b
+Deleted: sha256:711bcb4eaf26d29512ce10500ca1c37185d86edb19c3019e7f8db5d5a62cede5
+Deleted: sha256:bd18beda262545f8d5ae7f574f3bbdf048ce5848cc3326b2398542d298352488
+Deleted: sha256:8650b80a30be62be94f31f9747e03129d0e4e129b39965b25d64c8f6c26d3cd8
+Sat 08 Oct 2022 10:22:25 PM MSK
+
+Sat 08 Oct 2022 10:24:13 PM MSK
+
+Sat 08 Oct 2022 10:27:06 PM MSK
+
+"docker rmi" requires at least 1 argument.
+See 'docker rmi --help'.
+
+Usage:  docker rmi [OPTIONS] IMAGE [IMAGE...]
+
+Remove one or more images
+Sat 08 Oct 2022 10:32:34 PM MSK
+
+Sat 08 Oct 2022 10:36:22 PM MSK
+
+Sat 08 Oct 2022 10:38:29 PM MSK
+
+Sat 08 Oct 2022 10:38:42 PM MSK
+
+Sat 08 Oct 2022 10:42:05 PM MSK
+
+Deleted: sha256:371203508d6970196bda87b8f53b4392780508e05f04934cc0c033cc85824a3f
+Deleted: sha256:1d69193c1eed3657aaf32be326a1202f1c01020b78657ba8c0d7e8da9f7380d8
+Deleted: sha256:dbd88234f04139c6c4e1a4580242bf6595e22d1a911b89587f89e5857702fe3e
+Deleted: sha256:5a1e7f05249abec8e5299bf1a4d4b5c9f63a273fc09439f47bc6a94cbe59d5a8
+Deleted: sha256:db21a6d1943b2ed1143bfdeb804a23fe567fab4a1356a61526da12a9885f1851
+Sat 08 Oct 2022 10:47:57 PM MSK
+Sat 08 Oct 2022 10:52:14 PM MSK
+Sat 08 Oct 2022 10:54:26 PM MSK
+Sat 08 Oct 2022 10:58:16 PM MSK
+Deleted: sha256:1a2385428f1d9473f6bfe9128e452a6d65643d90353b2f1109ff47f244dae02a
+Deleted: sha256:0012a68cfc39ee05a56ebb163b3d0e0106c486c226ef390c2217bfaf5d6b70b0
+Deleted: sha256:5a56a30a21d64b8e3a099035dfcd91fe39ca3ead6b361fd6cb282b8160ba9d68
+Deleted: sha256:cdb8e0eca2e2caccd37ef146143bbda73482f50c385ed87de159faec3c075174
+Deleted: sha256:117a2779bde90c0e7e7462bb087f5fec237e9f2e05e2d26ff3e7664343faa5e8
+Untagged: generaltao725/simple-java-maven-app@sha256:1f2b2de159c2dfabb1f6eb2719f413c2b3e8338adbac5e4e33910dc5568950cf
+Deleted: sha256:14c882fc93a3ca05d8caf270f63fac40d76eae36232dcaeee2164faebd6fca65
+Deleted: sha256:c01fcd3461ad16b2b26941c081f056f33b0f1b8ff915048f128d317df286b1c1

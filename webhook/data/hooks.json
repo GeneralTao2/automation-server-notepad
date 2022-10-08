@@ -1,8 +1,8 @@
 [
     {
       "id": "test",
-      "execute-command": "/etc/webhook/update-image.sh",
-      "command-working-directory": "/etc/webhook",
+      "execute-command": "/home/mao/documents/automation-server-notepad/webhook/data/update-image.sh",
+      "command-working-directory": "/home/mao/documents/automation-server-notepad/webhook",
       "include-command-output-in-response": true
     }
   ]
